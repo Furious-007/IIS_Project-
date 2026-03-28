@@ -4,6 +4,6 @@ numpy
 matplotlib
 scipy
 scikit-learn
-tensorflow
+tensorflow-cpu
 seaborn
 kagglehub
